@@ -1,0 +1,152 @@
+[
+    {
+      "id": 1,
+      "title": "Goku",
+      "description": "Muñeco de Goku",
+      "category": "Dragon Ball",
+      "price": 4000,
+      "thumbnail": "/img/Goku.jpg",
+      "code": "dbgoku24",
+      "stock": 165
+    },
+    {
+      "id": 2,
+      "title": "Vegetta",
+      "description": "Muñeco de Vegetta",
+      "category": "Dragon Ball",
+      "price": 1600,
+      "thumbnail": "/img/Vegetta.jpg",
+      "code": "dbvegetta24",
+      "stock": 65
+    },
+    {
+      "id": 3,
+      "title": "Freezer",
+      "description": "Muñeco de Freezer",
+      "category": "Dragon Ball",
+      "price": 6000,
+      "thumbnail": "/img/Freezer.jpg",
+      "code": "dbfreezer24",
+      "stock": 135
+    },
+    {
+      "id": 4,
+      "title": "Piccolo",
+      "description": "Muñeco de Piccolo",
+      "category": "Dragon Ball",
+      "price": 8700,
+      "thumbnail": "/img/Piccolo.jpg",
+      "code": "dbpiccolo24",
+      "stock": 50
+    },
+    {
+      "id": 5,
+      "title": "Gohan",
+      "description": "Muñeco de Gohan",
+      "category": "Dragon Ball",
+      "price": 6500,
+      "thumbnail": "/img/Gohan.jpg",
+      "code": "dbgohan24",
+      "stock": 190
+    },
+    {
+      "id": 6,
+      "title": "Stan",
+      "description": "Muñeco de Stan",
+      "category": "South Park",
+      "price": 9600,
+      "thumbnail": "/img/Stan.jpg",
+      "code": "spstan24",
+      "stock": 70
+    },
+    {
+      "id": 7,
+      "title": "Kyle",
+      "description": "Muñeco de Kyle",
+      "category": "South Park",
+      "price": 3700,
+      "thumbnail": "/img/Kyle.jpg",
+      "code": "spkyle24",
+      "stock": 115
+    },
+    {
+      "id": 8,
+      "title": "Cartman",
+      "description": "Muñeco de Cartman",
+      "category": "South Park",
+      "price": 2200,
+      "thumbnail": "/img/Cartman.jpg",
+      "code": "spcartman24",
+      "stock": 85
+    },
+    {
+      "id": 9,
+      "title": "Kenny",
+      "description": "Muñeco de Kenny",
+      "category": "South Park",
+      "price": 8400,
+      "thumbnail": "/img/Kenny.jpg",
+      "code": "spkenny24",
+      "stock": 115
+    },
+    {
+      "id": 10,
+      "title": "Butters",
+      "description": "Muñeco de Butters",
+      "category": "South Park",
+      "price": 1300,
+      "thumbnail": "/img/Butters.jpg",
+      "code": "spbutters24",
+      "stock": 175
+    },
+    {
+      "id": 11,
+      "title": "Seiya",
+      "description": "Muñeco de Seiya",
+      "category": "Saint Seiya",
+      "price": 6600,
+      "thumbnail": "/img/Seiya.jpg",
+      "code": "ssseiya24",
+      "stock": 150
+    },
+    {
+      "id": 12,
+      "title": "Shiryu",
+      "description": "Muñeco de Shiryu",
+      "category": "Saint Seiya",
+      "price": 7300,
+      "thumbnail": "/img/Shiryu.jpg",
+      "code": "ssshiryu24",
+      "stock": 60
+    },
+    {
+      "id": 13,
+      "title": "Hyoga",
+      "description": "Muñeco de Hyoga",
+      "category": "Saint Seiya",
+      "price": 8200,
+      "thumbnail": "/img/Hyoga.jpg",
+      "code": "sshyoga24",
+      "stock": 100
+    },
+    {
+      "id": 14,
+      "title": "Shun",
+      "description": "Muñeco de Shun",
+      "category": "Saint Seiya",
+      "price": 9500,
+      "thumbnail": "/img/Shun.jpg",
+      "code": "ssshun24",
+      "stock": 170
+    },
+    {
+      "id": 15,
+      "title": "Ikki",
+      "description": "Muñeco de Ikki",
+      "category": "Saint Seiya",
+      "price": 3400,
+      "thumbnail": "/img/Ikki.jpg",
+      "code": "ssikki24",
+      "stock": 145
+    }
+  ]

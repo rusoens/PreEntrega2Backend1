@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productos</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+
+<body>
+    <!-- Botón flotante "Regresar" -->
+    <a href="http://localhost:8080/" class="floating-button">Regresar</a>
+    <h1>Productos</h1>
+    <div id="contenedorProductos" class="productsContainer">
+        {{#each productos}}
+        <div class="card">
+            <img src="{{this.thumbnail}}" alt="{{this.title}}" class="productImage">
+            <h2>{{this.title}}</h2>
+            <p>Descripción: {{this.description}}</p>
+            <p>Precio: ${{this.price}}</p>
+            <button data-id="{{this.id}}">Agregar</button>
+        </div>
+        {{/each}}
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
+
+
